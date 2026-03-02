@@ -17,8 +17,8 @@ A curated collection of useful websites and tools.
 
 | Link | Description | Status |
 |------|-------------|--------|
-| [![V3 Cloaking](https://img.shields.io/badge/V3_Cloaking-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://v3cloaking.vercel.app) | Extension detection & cloaking system | ![Active](https://img.shields.io/badge/Active-success) |
-| [![Auto Launcher](https://img.shields.io/badge/Auto_Launcher-2196F3?style=for-the-badge&logo=vercel&logoColor=white)](https://autolauncher.vercel.app) | Clean redirect target for V3 Cloaking | ![Active](https://img.shields.io/badge/Active-success) |
+| [![V3 Cloaking](https://img.shields.io/badge/V3_Cloaking-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://v3cloaking.vercel.app) | Google | ![Active](https://img.shields.io/badge/Active-success) |
+| [![Auto Launcher](https://img.shields.io/badge/Auto_Launcher-2196F3?style=for-the-badge&logo=vercel&logoColor=white)](https://autolauncher.vercel.app) | Google | ![Active](https://img.shields.io/badge/Active-success) |
 
 ---
 
